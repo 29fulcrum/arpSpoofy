@@ -31,7 +31,7 @@ Tool for ARP spoofing your victim by replacing the MAC address of the router wit
 1. [scanDetective](https://github.com/thepseudonym/scanDetective/)
 2. [pcktSniffy](https://github.com/thepseudonym/pcktSniffy/)
 
-3. # License
+# License
 <a href="https://github.com/thepseudonym/arpSpoofy/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE"> 
 </a>

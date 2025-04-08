@@ -2,8 +2,8 @@
 Tool for ARP spoofing your victim by replacing the MAC address of the router with your own
 
 <div align="center">
-<a href="https://github.com/thepseudonym/arpSpoofy" title="Go to GitHub repo">
-  <img src="https://img.shields.io/static/v1?label=thepseudonym&message=arpSpoofy&color=purple&logo=github" alt="thepseudonym - arpSpoofy">
+<a href="https://github.com/29fulcrum/arpSpoofy" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=29fulcrum&message=arpSpoofy&color=purple&logo=github" alt="29fulcrum - arpSpoofy">
 </a>
   <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
   <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
@@ -32,6 +32,6 @@ Tool for ARP spoofing your victim by replacing the MAC address of the router wit
 2. [pcktSniffy](https://github.com/thepseudonym/pcktSniffy/)
 
 # License
-<a href="https://github.com/thepseudonym/arpSpoofy/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/29fulcrum/arpSpoofy/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE"> 
 </a>
